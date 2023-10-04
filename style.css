@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    background: #fafafa;
+    color: #fdfdfd;
+    font-size: 3em;
+
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    /* font-style: italic; */ 
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+    text-align: center; /* deixa o titulo no centro */
+    letter-spacing: 20px; /* espaçamento das letras do titulo */
+    text-shadow: 2px 6px 5px #f7a7b4, 3px 5px #f70000; /*sombras nas letras fica show  */
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+;
+
+
+
+}
+
+
+main p{
+
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    line-height: 2em;
+    text-indent:  50px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+
+
+
+
+}
+
+
